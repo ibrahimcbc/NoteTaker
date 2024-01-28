@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3093129f-02f0-4e39-90be-12291196691d" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3093129f-02f0-4e39-90be-12291196691d" name="Changes" comment="Added properties to Book and Movie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lists/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lists/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lists/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lists/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streak/Streak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streak/Streak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/takeNote/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/takeNote/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weeklyPlan/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weeklyPlan/Activity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706388261627</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added properties to Book and Movie">
+      <option name="closed" value="true" />
+      <created>1706474372354</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706474372354</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Added properties to Book and Movie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added properties to Book and Movie" />
   </component>
 </project>
